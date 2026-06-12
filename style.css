@@ -1,5 +1,17 @@
-.seccion{
+/* Quitar los espacios internos y externos
+que viene por defecto */
+*{
+    margin: 0;
+    padding: 0;
+}
 
+.seccion{
+    border: 1px solid green;
+
+    /* Aplica un espacio externo 
+    en los cuatro lados ya que solo se 
+    esta proporcionando un solo valor; */
+    margin: 20px;
 }
 
 .descripcion{
