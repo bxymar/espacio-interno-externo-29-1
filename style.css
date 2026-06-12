@@ -28,6 +28,12 @@ que viene por defecto */
     margin: 50px 40px 60px;
 }
 
+.seccion-cuatro{
+    border: 1px solid black;
+
+    margin: 40px 50px 30px 100px;
+}
+
 .descripcion{
 
 }
