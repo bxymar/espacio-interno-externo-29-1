@@ -34,6 +34,15 @@ que viene por defecto */
     margin: 40px 50px 30px 100px;
 }
 
+.footer{
+    border: 1px solid orange;
+
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    margin-top: 40px;
+}
+
 .descripcion{
 
 }
