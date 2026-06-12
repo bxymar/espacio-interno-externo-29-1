@@ -12,6 +12,8 @@ que viene por defecto */
     en los cuatro lados ya que solo se 
     esta proporcionando un solo valor; */
     margin: 20px;
+
+    padding: 30px;
 }
 
 .seccion-dos{
@@ -20,18 +22,22 @@ que viene por defecto */
     /* Aplica un espacio externo (60px) en los lados de arriba y abajo
     (100px) en los extremos, es decir los lados de la derecha e izquierda */
     margin: 60px 100px;
+
+    padding: 20px 90px;
 }
 
 .seccion-tres{
     border: 1px solid blue;
 
     margin: 50px 40px 60px;
+    padding: 30px 50px 100px;
 }
 
 .seccion-cuatro{
     border: 1px solid black;
 
     margin: 40px 50px 30px 100px;
+    padding: 90px 20px 35px 10px;
 }
 
 .footer{
@@ -41,8 +47,18 @@ que viene por defecto */
     margin-right: 50px;
     margin-bottom: 30px;
     margin-top: 40px;
+
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+a{
+   border: 1px solid violet;
+   color: black; 
 }
 
 .descripcion{
-
+    background-color: yellow;
 }
