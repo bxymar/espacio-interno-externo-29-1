@@ -14,6 +14,20 @@ que viene por defecto */
     margin: 20px;
 }
 
+.seccion-dos{
+    border: 1px solid red;
+
+    /* Aplica un espacio externo (60px) en los lados de arriba y abajo
+    (100px) en los extremos, es decir los lados de la derecha e izquierda */
+    margin: 60px 100px;
+}
+
+.seccion-tres{
+    border: 1px solid blue;
+
+    margin: 50px 40px 60px;
+}
+
 .descripcion{
 
 }
